@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/memorix-snapshot-completion",
+  "packageVersion": "1.0.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/memorix-snapshot-completion",
+  "usageRepository": "https://github.com/x12i-sdk/memorix-snapshot-completion",
+  "sourceRepository": null,
+  "sourceCommit": null,
+  "sourcePackageDirectory": null,
+  "example": {
+    "title": "Complete a snapshot field with a local source reader",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T14:25:28.850061+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "56376e5a0913fe73a909f37210486a1c62b406cd38d652d57a5f7212b9698ab5",
+    "manifestSha256": "ffbac709791333aa89db28c621e15eaf042522e2a766184a9cef9146d07ea38e"
+  },
+  "validationFiles": {
+    "src/index.mjs": "56376e5a0913fe73a909f37210486a1c62b406cd38d652d57a5f7212b9698ab5"
+  }
+}

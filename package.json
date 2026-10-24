@@ -1,0 +1,22 @@
+{
+  "name": "memorix-snapshot-completion-usage",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Usage example for @x12i/memorix-snapshot-completion: complete a snapshot field with a local source reader.",
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "start": "node src/index.mjs",
+    "check": "node --check src/index.mjs"
+  },
+  "dependencies": {
+    "@x12i/memorix-snapshot-completion": "1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/x12i-sdk/memorix-snapshot-completion.git"
+  },
+  "homepage": "https://www.npmjs.com/package/@x12i/memorix-snapshot-completion"
+}
